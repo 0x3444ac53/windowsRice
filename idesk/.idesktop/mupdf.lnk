@@ -1,0 +1,9 @@
+table Icon
+  Caption: mupdf
+  Icon: /usr/share/icons/Classic95/32x32/mimetypes/application-vnd.ms-word.document.macroEnabled.12.png
+  X: 11
+  Y: 11
+  Command[0]: mupdf "$(zenity --file-selection)"
+  Command[1]: idesktool mupdf.lnk
+end
+

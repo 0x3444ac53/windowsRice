@@ -1,0 +1,9 @@
+table Icon
+  Caption: Search
+  Icon: /usr/share/icons/Classic95/32x32/apps/web-browser.png
+  X: 11
+  Y: 81
+  Command[0]: search_box.sh
+  Command[1]: idesktool Search.lnk
+end
+

@@ -1,0 +1,9 @@
+table Icon
+  Caption: Discord
+  Icon: /usr/share/icons/Classic95/32x32/apps/evolution-mail.png
+  X: 11
+  Y: 281
+  Command[0]: discord
+  Command[1]: idesktool Discord.lnk
+end
+

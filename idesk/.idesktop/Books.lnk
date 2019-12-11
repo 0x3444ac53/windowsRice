@@ -1,0 +1,8 @@
+table Icon
+  Caption: Books
+  Icon: /usr/share/icons/Classic95/32x32/places/folder-documents.png
+  X: 13
+  Y: 153
+  Command[0]: pcmanfm ~/Documents/books
+  Command[1]: idesktool Books.lnk
+end

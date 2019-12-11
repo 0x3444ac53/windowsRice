@@ -1,0 +1,9 @@
+table Icon
+  Caption: Chat
+  Icon: /usr/share/icons/Classic95/32x32/apps/claws-mail.png
+  X: 11
+  Y: 221
+  Command[0]: hexchat
+  Command[1]: idesktool Chat.lnk
+end
+
